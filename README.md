@@ -1,6 +1,8 @@
 # BSING Wears
 
-A full-stack fashion e-commerce platform for men, women, and teams. Built with React (frontend) and Node.js/Express/MongoDB (backend).
+Full-stack fashion e-commerce platform for men, women, and teams. Frontend: React (Vite). Backend: Node.js, Express, MongoDB (Mongoose).
+
+**Backend API coming soon: The backend stack is being prepared and will be ready shortly.**
 
 ## Features
 
